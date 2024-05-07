@@ -134,15 +134,27 @@ html, body{
 #slide1{
     left: 0;
 }
+#slide1 h1{
+    color: #FAC8BC;
+}
 #slide2{
     left: 60vw;
+}
+#slide2 h1{
+    color: #AA2F3A;
 }
 #slide3{
     left: 120vw;
 }
+#slide3 h1{
+    color: #eba152;
+}
 #slide4 {
     left: 180vw;
 } 
+#slide4 h1{
+    color: #5A2219;
+}
 
 .slides img{
     width: 50vw;
